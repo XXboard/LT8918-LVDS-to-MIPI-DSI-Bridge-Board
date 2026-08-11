@@ -1,0 +1,1 @@
+# LT8918-LVDS-to-MIPI-DSI-Bridge-Board
